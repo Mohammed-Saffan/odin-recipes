@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+    background-color: rgb(91, 0, 175,0.5);
+    border-radius: 9%;
+    margin-left: 60px;
+    margin-right: 60px;
+   }
+   
+
+.recipe{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 30px;
+    font-weight: bold;
+    list-style-type: none;
+
+}
